@@ -16,7 +16,7 @@ Automate RPA Challenge by launching the website, downloading and processing an E
 1. Clone this repository to your local machine:
 
    ```bash
-   [git clone https://github.com/your-username/rpa-challenge-automation.git](https://github.com/radwaayman22/RPA-Challenge-UIPath.git)
+   [(https://github.com/radwaayman22/RPA-Challenge-UIPath.git)]
    ```
 2. Open the project in UiPath Studio.
 3. Run the automation script.
